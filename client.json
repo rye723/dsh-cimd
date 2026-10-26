@@ -1,5 +1,5 @@
 {
-  "client_id": "https://<rye723>.github.io/dsh-cimd/client.json",
+  "client_id": "https://rye723.github.io/dsh-cimd/client.json",
   "client_name": "DeepSeek Harness Undermind connector",
   "client_uri": "https://github.com/deepseek-ai/deepseek-harness",
   "redirect_uris": ["http://127.0.0.1:8765/callback"],
